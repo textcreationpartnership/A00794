@@ -36,43 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A CATALOGVE OF DIVERS VISIBLE PROFESSORS OF the Catholike Faith. Which sheweth, that the Roman Churc
+
 1. TO THE READER.
 
 #####Body#####
 An. Dom.Chiefe Pastours.Gen. Councells.30. From the yeare 30.30Iesus Christ.The Hierosolymitan Counc
-    _ Vnto the yeare 100.
-
-    _ Vnto the yeare 200.
-
-    _ Vnto the yeare 300.
-
-    _ Vnto the yeare 400.
-
-    _ Vnto the yeare 500.
-
-    _ Vnto the yeare 600.
-
-    _ Vnto the yeare 700.
-
-    _ Vnto the yeare 800.
-
-    _ Vnto the yeare 900.
-
-    _ Vnto the yeare 1000.
-
-    _ Vnto the yeare 1100.
-
-    _ Vnto the yeare 1200.
-
-    _ Vnto the yeare 1300.
-
-    _ Vnto the yeare 1400.
-
-    _ Vnto the yeare 1500.
-
-    _ Vnto the yeare 1600.
-
 1. Catholike Professours.
 
     _ Vnto the yeare 100.
@@ -143,55 +111,48 @@ There are 29 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|6||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__back__|1||
-|2.|__bibl__|1||
-|3.|__body__|1||
-|4.|__cell__|485| @__role__ (3) : label (3)  •  @__cols__ (16) : 3 (16)  •  @__rows__ (18) : 5 (3), 11 (2), 15 (3), 6 (1), 7 (1), 13 (2), 19 (1), 17 (2), 24 (1), 16 (1), 10 (1)|
-|5.|__desc__|29||
-|6.|__div__|21| @__type__ (21) : title_page (1), to_the_reader (1), part (2), subpart (16), notice (1)|
-|7.|__front__|1||
-|8.|__g__|138| @__ref__ (138) : char:EOLhyphen (127), char:cmbAbbrStroke (6), char:punc (5)|
-|9.|__gap__|29| @__reason__ (29) : duplicate (2), illegible (27)  •  @__extent__ (29) : 1 page (2), 1 letter (22), 2 letters (2), 1 word (3)|
-|10.|__head__|19||
-|11.|__hi__|89||
-|12.|__item__|25||
-|13.|__list__|12||
-|14.|__note__|1| @__place__ (1) : margin (1)|
-|15.|__p__|45||
-|16.|__pb__|35| @__facs__ (35) : tcp:2261:1 (2), tcp:2261:2 (2), tcp:2261:3 (2), tcp:2261:4 (2), tcp:2261:5 (2), tcp:2261:6 (2), tcp:2261:7 (2), tcp:2261:8 (2), tcp:2261:9 (2), tcp:2261:10 (2), tcp:2261:11 (2), tcp:2261:12 (2), tcp:2261:13 (2), tcp:2261:15 (2), tcp:2261:16 (2), tcp:2261:14 (1), tcp:2261:17 (2), tcp:2261:18 (2)  •  @__rendition__ (2) : simple:additions (2)  •  @__n__ (13) : 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1)|
-|17.|__q__|3||
-|18.|__row__|241||
-|19.|__table__|1||
-|20.|__trailer__|1||
+|1.|__bibl__|1||
+|2.|__cell__|485| @__role__ (3) : label (3)  •  @__cols__ (16) : 3 (16)  •  @__rows__ (18) : 5 (3), 11 (2), 15 (3), 6 (1), 7 (1), 13 (2), 19 (1), 17 (2), 24 (1), 16 (1), 10 (1)|
+|3.|__desc__|29||
+|4.|__div__|21| @__type__ (21) : title_page (1), to_the_reader (1), part (2), subpart (16), notice (1)|
+|5.|__g__|138| @__ref__ (138) : char:EOLhyphen (127), char:cmbAbbrStroke (6), char:punc (5)|
+|6.|__gap__|29| @__reason__ (29) : duplicate (2), illegible (27)  •  @__extent__ (29) : 1 page (2), 1 letter (22), 2 letters (2), 1 word (3)|
+|7.|__head__|19||
+|8.|__hi__|89||
+|9.|__item__|25||
+|10.|__list__|12||
+|11.|__note__|1| @__place__ (1) : margin (1)|
+|12.|__p__|45||
+|13.|__pb__|35| @__facs__ (35) : tcp:2261:1 (2), tcp:2261:2 (2), tcp:2261:3 (2), tcp:2261:4 (2), tcp:2261:5 (2), tcp:2261:6 (2), tcp:2261:7 (2), tcp:2261:8 (2), tcp:2261:9 (2), tcp:2261:10 (2), tcp:2261:11 (2), tcp:2261:12 (2), tcp:2261:13 (2), tcp:2261:15 (2), tcp:2261:16 (2), tcp:2261:14 (1), tcp:2261:17 (2), tcp:2261:18 (2)  •  @__rendition__ (2) : simple:additions (2)  •  @__n__ (13) : 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1)|
+|14.|__q__|3||
+|15.|__row__|241||
+|16.|__table__|1||
+|17.|__trailer__|1||
